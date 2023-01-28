@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>自用汉化补丁</name>
+    <author>cedaro</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>cedaro.translation</packageId>
+	<loadAfter>
+		<li>murmur.subsurfaceconduit</li>
+		<li>murmur.tcu</li>
+		<li>owlchemist.cherrypicker</li>
+		<li>owlchemist.boundarytraining</li>
+		<li>Mlie.LinkableSettings</li>
+		<li>Uuugggg.GearUpAndGo</li>
+		<li>ratys.madskills</li>
+		<li>ubergarm.kanbanstockpile</li>
+	</loadAfter>
+	<description>
+自用汉化
+	</description>
+</ModMetaData>
