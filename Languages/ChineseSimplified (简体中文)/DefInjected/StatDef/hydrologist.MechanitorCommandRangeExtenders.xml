@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Hydroxyapatite_MechCommandDistance.label>机械体指挥半径</Hydroxyapatite_MechCommandDistance.label>
+  <Hydroxyapatite_MechCommandDistance.description>机械师能控制机械体行动的最远距离。</Hydroxyapatite_MechCommandDistance.description>
+</LanguageData>
