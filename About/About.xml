@@ -7,17 +7,17 @@
 	</supportedVersions>
 	<packageId>cedaro.translation</packageId>
 	<loadAfter>
+		<li>hydrologist.mechanitorcommandrangeextenders</li>
+		<li>hydrologist.mechanitorcommandrelays</li>
+		<li>mlie.linkablesettings</li>
 		<li>murmur.subsurfaceconduit</li>
 		<li>murmur.tcu</li>
-		<li>owlchemist.cherrypicker</li>
 		<li>owlchemist.boundarytraining</li>
-		<li>mlie.linkablesettings</li>
-		<li>uuugggg.gearupandgo</li>
+		<li>owlchemist.cherrypicker</li>
 		<li>ratys.madskills</li>
-		<li>ubergarm.kanbanstockpile</li>
-		<li>hydrologist.mechanitorcommandrangeextenders</li>
-		<li>hydrologist.MechanitorCommandRelays</li>
 		<li>scorpio.optimizationleathers</li>
+		<li>ubergarm.kanbanstockpile</li>
+		<li>uuugggg.gearupandgo</li>
 	</loadAfter>
 	<description>
 自用汉化
