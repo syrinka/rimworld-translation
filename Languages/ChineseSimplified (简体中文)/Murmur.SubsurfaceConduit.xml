@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <MUR_SubsurfaceConduit.label>地下电缆</MUR_SubsurfaceConduit.label>
+  <MUR_SubsurfaceConduit.description>一捆用于传输电力的加固型电缆，可以埋藏在地表之下。</MUR_SubsurfaceConduit.description>
   <MUR_SubsurfaceConduit>地下电缆</MUR_SubsurfaceConduit>
   <MUR_SubsurfaceConduit_SteelCostName>钢铁花费</MUR_SubsurfaceConduit_SteelCostName>
   <MUR_SubsurfaceConduit_SteelCostDesc>造一格地下电缆需要的钢铁。默认值：3</MUR_SubsurfaceConduit_SteelCostDesc>
