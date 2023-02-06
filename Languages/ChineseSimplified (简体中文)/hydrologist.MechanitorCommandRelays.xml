@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Hydroxyapatite_CommandRelay.label>指挥中继</Hydroxyapatite_CommandRelay.label>
+  <Hydroxyapatite_CommandRelay.description>一台机械族频带信号放大器。指挥中继必须被调谐至特定的机械师。被调谐的机械师可以控制指挥中继附近的机械体。
+指挥中继在完成建造之后可以快速调谐至一位机械师。但是，将指挥中继重新调谐至一位不同的机械师需要长的多的时间。</Hydroxyapatite_CommandRelay.description>
+  <CommandRelay.label>指挥中继（调谐）</CommandRelay.label>
+  <CommandRelay.description>指挥中继已与该机械师调谐。</CommandRelay.description>
+</LanguageData>
