@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Hydroxyapatite_CommandSublink.label>指挥子链（标准）</Hydroxyapatite_CommandSublink.label>
+  <Hydroxyapatite_CommandSublink.description>一种可以提升机械师 5 格控制范围的植入物。
+这种标准指挥子链最高能增加到 40 格控制范围。如果想要增加更多，就需要使用更等级的子链。
+这种植入物可以不用手术直接安装。
+最多可安装三次以加强效果。</Hydroxyapatite_CommandSublink.description>
+
+  <Hydroxyapatite_CommandSublinkHigh.label>指挥子链（高级）</Hydroxyapatite_CommandSublinkHigh.label>
+  <Hydroxyapatite_CommandSublinkHigh.description>一种可以提升机械师 5 格控制范围的植入物。
+这种标准指挥子链最高能增加到 55 格控制范围。
+这种植入物可以不用手术直接安装。
+最多可安装三次以加强效果。</Hydroxyapatite_CommandSublinkHigh.description>
+</LanguageData>
