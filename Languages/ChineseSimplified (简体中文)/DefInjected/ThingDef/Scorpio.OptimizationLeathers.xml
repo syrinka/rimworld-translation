@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <Leather_Legend.label>传奇皮革</Leather_Legend.label>
+    <Leather_Legend.description>极难获得的珍贵皮革，坚韧且耐磨。</Leather_Legend.description>
+    <Leather_Chitin.label>几丁质</Leather_Chitin.label>
+    <Leather_Chitin.description>一种硬若钢铁的多用途材料，主要来源于虫子的外骨骼。</Leather_Chitin.description>
+    <Leather_DragonScale.label>龙鳞</Leather_DragonScale.label>
+    <Leather_DragonScale.description>从龙身上剥落下的鳞片。比钢铁略坚硬，可用于制作工具与武器。</Leather_DragonScale.description>
+</LanguageData>
