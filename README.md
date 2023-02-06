@@ -1,6 +1,6 @@
-Place this at the tail of your mods list.
+Place this at the top of your MODs list.
 
-## Translated mod
+## Translated MODs
 
 - [Mechanitor Command Relays](https://steamcommunity.com/sharedfiles/filedetails/?id=2885836922)
 - [Mechanitor Command Range Extenders](https://steamcommunity.com/sharedfiles/filedetails/?id=2884038189)
@@ -13,5 +13,7 @@ Place this at the tail of your mods list.
 - [Optimization: Leathers - C# Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2591816333)
 - [KanbanStockpile](https://steamcommunity.com/sharedfiles/filedetails/?id=2287142613)
 - [Gear Up And Go](https://steamcommunity.com/sharedfiles/filedetails/?id=1316142788)
+
+Only support simplified Chinese.
 
 See `loadAfter` section in [About.xml](About/About.xml)
