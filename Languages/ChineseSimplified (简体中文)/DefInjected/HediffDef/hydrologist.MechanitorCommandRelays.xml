@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CommandRelay.label>指挥中继（调谐）</CommandRelay.label>
+  <CommandRelay.description>指挥中继已与该机械师调谐。</CommandRelay.description>
+</LanguageData>
