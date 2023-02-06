@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CherryPicker.RestartHeader>需要重新启动游戏</CherryPicker.RestartHeader>
+  <CherryPicker.RestartRequired>恢复默认值需要重新启动游戏。</CherryPicker.RestartRequired>
+
+  <CherryPicker.ReloadHeader>需要重新加载游戏</CherryPicker.ReloadHeader>
+  <CherryPicker.ReloadRequired>这些特殊的更改需要重新加载游戏存档。但你不需要重新启动游戏。</CherryPicker.ReloadRequired>
+</LanguageData>

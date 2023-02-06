@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: subsurface conduit -->
+  <MUR_SubsurfaceConduit.label>地下电缆</MUR_SubsurfaceConduit.label>
+  <!-- EN: A reinforced bundle of electrical cables for moving power around. Placed below the surface. -->
+  <MUR_SubsurfaceConduit.description>一捆用于传输电力的加固型电缆，可以埋藏在地表之下。</MUR_SubsurfaceConduit.description>
+  
+</LanguageData>
