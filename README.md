@@ -4,6 +4,7 @@ Place this at the top of your MODs list.
 
 - [Mechanitor Command Relays](https://steamcommunity.com/sharedfiles/filedetails/?id=2885836922)
 - [Mechanitor Command Range Extenders](https://steamcommunity.com/sharedfiles/filedetails/?id=2884038189)
+- [Mechanitor Psy-Sensitive Control Range](https://steamcommunity.com/sharedfiles/filedetails/?id=2883714798)
 - [Linkable Settings](https://steamcommunity.com/sharedfiles/filedetails/?id=2739581441)
 - [Subsurface Conduit](https://steamcommunity.com/sharedfiles/filedetails/?id=1609226728)
 - [Temperature Control Unit](https://steamcommunity.com/sharedfiles/filedetails/?id=2203542817)

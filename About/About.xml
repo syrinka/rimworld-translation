@@ -9,6 +9,7 @@
 	<loadAfter>
 		<li>hydrologist.mechanitorcommandrangeextenders</li>
 		<li>hydrologist.mechanitorcommandrelays</li>
+		<li>hydrologist.mechanitorpsysensitivecontrolrange</li>
 		<li>mlie.linkablesettings</li>
 		<li>murmur.subsurfaceconduit</li>
 		<li>murmur.tcu</li>
