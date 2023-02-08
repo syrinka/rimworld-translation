@@ -6,25 +6,25 @@
   <LiSe.resetall.button>重置</LiSe.resetall.button>
   <LiSe.reset.button>重置</LiSe.reset.button>
   <LiSe.search>搜索</LiSe.search>
-  <LiSe.resetall.confirm>All custom settings will be removed and replaced with the vanilla settings</LiSe.resetall.confirm>
+  <LiSe.resetall.confirm>所有更改都将被重置，回退到原版设置。</LiSe.resetall.confirm>
   <LiSe.logging.label>Enable verbose logging</LiSe.logging.label>
   <LiSe.logging.tooltip>Shows verbose logging, for finding errors</LiSe.logging.tooltip>
   <LiSe.version.label>Installed mod-version: {0}</LiSe.version.label>
   <LiSe.error.thing>Error, could not find {0} in the database</LiSe.error.thing>
   <LiSe.linktype.label>连接模式</LiSe.linktype.label>
-  <LiSe.linktype.description>The type of link the facility should use</LiSe.linktype.description>
+  <LiSe.linktype.description>该设施将在什么情况下与建筑连接</LiSe.linktype.description>
   <LiSe.linkrange.label>距离: {0}</LiSe.linkrange.label>
   <LiSe.linkrange.description>最远连接范围</LiSe.linkrange.description>
   <LiSe.linkamount.label>数量: {0}</LiSe.linkamount.label>
   <LiSe.linkamount.description>最高叠加次数</LiSe.linkamount.description>
   <LiSe.range.label>范围内</LiSe.range.label>
-  <LiSe.range.description>Active when in range defined below</LiSe.range.description>
+  <LiSe.range.description>当处于下方指定的范围内时</LiSe.range.description>
   <LiSe.room.label>同一房间</LiSe.room.label>
-  <LiSe.room.description>Active when in the same room. If outside it will use the range defined below</LiSe.room.description>
+  <LiSe.room.description>当处于同一房间内、或处于下方指定的范围内时</LiSe.room.description>
   <LiSe.mustBePlacedAdjacent.label>相邻</LiSe.mustBePlacedAdjacent.label>
-  <LiSe.mustBePlacedAdjacent.description>Active when placed adjacent to the building</LiSe.mustBePlacedAdjacent.description>
+  <LiSe.mustBePlacedAdjacent.description>当与建筑相邻时</LiSe.mustBePlacedAdjacent.description>
   <LiSe.mustBePlacedAdjacentCardinalToBedHead.label>相邻床头</LiSe.mustBePlacedAdjacentCardinalToBedHead.label>
-  <LiSe.mustBePlacedAdjacentCardinalToBedHead.description>Active when placed adjacent to the head of a bed</LiSe.mustBePlacedAdjacentCardinalToBedHead.description>
+  <LiSe.mustBePlacedAdjacentCardinalToBedHead.description>当与床头相邻时</LiSe.mustBePlacedAdjacentCardinalToBedHead.description>
   <LiSe.mustBePlacedAdjacentCardinalToAndFacingBedHead.label>面向床头</LiSe.mustBePlacedAdjacentCardinalToAndFacingBedHead.label>
-  <LiSe.mustBePlacedAdjacentCardinalToAndFacingBedHead.description>Active when placed adjacent to the head of a bed and also facing the head of the bed</LiSe.mustBePlacedAdjacentCardinalToAndFacingBedHead.description>
+  <LiSe.mustBePlacedAdjacentCardinalToAndFacingBedHead.description>当与床头相邻、且面向床头时</LiSe.mustBePlacedAdjacentCardinalToAndFacingBedHead.description>
 </LanguageData>

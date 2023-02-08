@@ -7,6 +7,7 @@
 	</supportedVersions>
 	<packageId>cedaro.translation</packageId>
 	<loadAfter>
+		<li>azuraal.choiceofpsycasts</li>
 		<li>hydrologist.mechanitorcommandrangeextenders</li>
 		<li>hydrologist.mechanitorcommandrelays</li>
 		<li>hydrologist.mechanitorpsysensitivecontrolrange</li>
@@ -19,7 +20,6 @@
 		<li>scorpio.optimizationleathers</li>
 		<li>ubergarm.kanbanstockpile</li>
 		<li>uuugggg.gearupandgo</li>
-		<li>azuraal.choiceofpsycasts</li>
 	</loadAfter>
 	<description>
 自用汉化
