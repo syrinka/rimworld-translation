@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MeleeWeapon_HydraulicClaw.label>液压钳</MeleeWeapon_HydraulicClaw.label>
+    <MeleeWeapon_HydraulicClaw.description>一组安装在关节臂上的液压装卸钳，原被设计于装卸物资，但也可用于压碎敌人。</MeleeWeapon_HydraulicClaw.description>
+
+    <Mech_Logistic.label>物流运机</Mech_Logistic.label>
+    <Mech_Logistic.description>一种专门设计的重型特化搬运机，负重极高且十分灵活。\n\n安装有数对液压装卸钳，必要时可作为武器使用。内置有主动烟雾发生器，可通过通风口释放机械烟雾。</Mech_Logistic.description>
+    <Mech_Logistic.tools.0.label>前置装甲</Mech_Logistic.tools.0.label>
+</LanguageData>

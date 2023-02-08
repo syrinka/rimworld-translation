@@ -10,6 +10,7 @@ Place this at the top of your MODs list.
 - [Subsurface Conduit](https://steamcommunity.com/sharedfiles/filedetails/?id=1609226728)
 - [Temperature Control Unit](https://steamcommunity.com/sharedfiles/filedetails/?id=2203542817)
 - [Boundary Training](https://steamcommunity.com/sharedfiles/filedetails/?id=2635034257)
+- [Logistics_Mechanoid](https://steamcommunity.com/sharedfiles/filedetails/?id=2885430743)
 - [Mad Skills](https://steamcommunity.com/sharedfiles/filedetails/?id=731111514)
 - [Optimization: Leathers - C# Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2591816333)
 - [KanbanStockpile](https://steamcommunity.com/sharedfiles/filedetails/?id=2287142613)
