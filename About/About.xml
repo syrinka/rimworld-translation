@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>自用汉化补丁</name>
+	<name>散装 MOD 汉化包</name>
     <author>cedaro</author>
 	<supportedVersions>
 		<li>1.4</li>
@@ -23,6 +23,8 @@
 		<li>uuugggg.gearupandgo</li>
 	</loadAfter>
 	<description>
-自用汉化
+散装个人汉化。
+
+请将本 MOD 置于所有需要汉化的 MOD 之后。
 	</description>
 </ModMetaData>
