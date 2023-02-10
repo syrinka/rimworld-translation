@@ -16,7 +16,6 @@ Place this at the top of your MODs list.
 - [Logistics_Mechanoid](https://steamcommunity.com/sharedfiles/filedetails/?id=2885430743)
 - [Mad Skills](https://steamcommunity.com/sharedfiles/filedetails/?id=731111514)
 - [Optimization: Leathers - C# Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2591816333)
-- [KanbanStockpile](https://steamcommunity.com/sharedfiles/filedetails/?id=2287142613)
 - [Gear Up And Go](https://steamcommunity.com/sharedfiles/filedetails/?id=1316142788)
 
 Only support simplified Chinese.
