@@ -9,6 +9,7 @@
 	<loadAfter>
 		<li>aamu.diary</li>
 		<li>azuraal.choiceofpsycasts</li>
+		<li>gt.sam.tilledsoil</li>
 		<li>hydrologist.mechanitorcommandrangeextenders</li>
 		<li>hydrologist.mechanitorcommandrelays</li>
 		<li>hydrologist.mechanitorpsysensitivecontrolrange</li>

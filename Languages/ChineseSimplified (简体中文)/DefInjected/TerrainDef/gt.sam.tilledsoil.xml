@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Dirt.label>堆土</Dirt.label>
+    <Dirt.description>一堆普通的土壤，尝起来也像土。</Dirt.description>
+    <GT_SoilTilled.label>耕地</GT_SoilTilled.label>
+    <GT_SoilTilled.description>精心打理的耕地，看起来很适合作物生长。</GT_SoilTilled.description>
+</LanguageData>

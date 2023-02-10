@@ -4,6 +4,7 @@ Place this at the top of your MODs list.
 
 - [Diary](https://steamcommunity.com/sharedfiles/filedetails/?id=2888141826)
 - [Choice Of Psycasts](https://steamcommunity.com/sharedfiles/filedetails/?id=2293460251)
+- [Tilled Soil](https://steamcommunity.com/sharedfiles/filedetails/?id=725747149)
 - [Mechanitor Command Relays](https://steamcommunity.com/sharedfiles/filedetails/?id=2885836922)
 - [Mechanitor Command Range Extenders](https://steamcommunity.com/sharedfiles/filedetails/?id=2884038189)
 - [Mechanitor Psy-Sensitive Control Range](https://steamcommunity.com/sharedfiles/filedetails/?id=2883714798)
