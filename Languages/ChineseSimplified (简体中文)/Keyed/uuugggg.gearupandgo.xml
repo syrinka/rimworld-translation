@@ -4,12 +4,12 @@
 	<TD.GearAndGo>整装上阵！</TD.GearAndGo>
 	<TD.GearAndGoDesc>穿戴武装、征召、向目标移动。
 
-如果使用了 Better Pawn Control，会自动切换全局方案（可在 Mod 配置中修改）
-Shift-click to reset Better Pawn Control policy.
-Alt-click when targeting it won't set Better Pawn Control Policy.</TD.GearAndGoDesc>
+如果启用了 BPC，整装上阵会自动更改全局方案（可在 Mod 配置中修改）。
+
+按住 Alt 时不会更改全局方案。按住 Shift 并点击此图标将撤回全局方案更改。</TD.GearAndGoDesc>
 	<TD.GearUpAndGoSettingsName>整装上阵</TD.GearUpAndGoSettingsName>
-	<TD.SettingBetterPawnControlPolicy>如果使用了 Better Pawn Control，整装上阵时，以下方案将被启用</TD.SettingBetterPawnControlPolicy>
+	<TD.SettingBetterPawnControlPolicy>如果启用了 Better Pawn Control，整装上阵时，以下方案将被启用</TD.SettingBetterPawnControlPolicy>
 	<TD.SettingBetterPawnControlRemembered>The last policy is remembered, so shift-clicking the button will reset it</TD.SettingBetterPawnControlRemembered>
-	<TD.GearUpPolicySetAlert>Gear Up And Go has set Better Pawn Control Policy for a battle.\n\nClick to reset to previous policy</TD.GearUpPolicySetAlert>
+	<TD.GearUpPolicySetAlert>整装上阵刚刚更改了全局方案。\n\n点击此处以撤回更改。</TD.GearUpPolicySetAlert>
 
 </LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VMS.CurrentModVersion>Installed mod-version: {0}</VMS.CurrentModVersion>
+  <VMS.NoEffect>1 cell storage will always be filled</VMS.NoEffect>
+  <VMS.FullyStocked>总是保持充足的库存</VMS.FullyStocked>
+  <VMS.StartAtOne>余 1 格空位时开始补货</VMS.StartAtOne>
+  <VMS.RefillWhenEmpty>空时开始补货</VMS.RefillWhenEmpty>
+  <VMS.RefillWhenAmount>余 {0} 格空位时开始补货</VMS.RefillWhenAmount>
+  <VMS.FillNow>正在补货</VMS.FillNow>
+  <VMS.StackSize>堆栈容量</VMS.StackSize>
+  <VMS.Duplicates>重复堆数</VMS.Duplicates>
+  <VMS.SingleDuplicates>Single-stack items can be duplicates: </VMS.SingleDuplicates>
+  <VMS.CheckReservations>Check reservations when limiting duplicates: </VMS.CheckReservations>
+</LanguageData>
