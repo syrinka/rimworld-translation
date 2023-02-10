@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Diary_No_Entry_Found>无事发生</Diary_No_Entry_Found>
+  <Diary_Export>导出</Diary_Export>
+  <Diary_Export_Folder_Path>日记导出路径</Diary_Export_Folder_Path>
+  <Diary_Export_Successful>导出成功！</Diary_Export_Successful>
+  <Diary_Directory_Not_Found>导出失败：指定的日记导出路径不存在</Diary_Directory_Not_Found>
+  <Diary_Error_During_Export>导出失败：未知错误
+  
+请检查路径写入权限，或尝试更换导出路径</Diary_Error_During_Export>
+  <Diary_Export_Format>导出格式</Diary_Export_Format>
+  <Diary_Format_Text>Text (.txt)</Diary_Format_Text>
+  <Diary_Format_RTF>Rich Text File (.rtf)</Diary_Format_RTF>
+  <Diary_Default_Entry_Message>Default entry message</Diary_Default_Entry_Message>
+  <Diary_No_Entry_Found_Message>"No entry found" message</Diary_No_Entry_Found_Message>
+  <Diary_Empty>空</Diary_Empty>
+  <Diary_File_Created_Available_At>日记被导出到：</Diary_File_Created_Available_At>
+  <Diary_Reset_To_Default_Path>重置到默认路径</Diary_Reset_To_Default_Path>
+  <Diary_Default_Log_Filter>Diary 标签默认的日志过滤器</Diary_Default_Log_Filter>
+  <Diary_All>全部</Diary_All>
+  <Diary_Chats>社交</Diary_Chats>
+  <Diary_Events>事件</Diary_Events>
+  <Diary_None>无</Diary_None>
+  <Diary_Log_Writer_Filter_Explanation>Diary 可以自动将游戏日志记录到日记中，使用以下选项指定需要自动记录什么日志。</Diary_Log_Writer_Filter_Explanation>
+  <Diary_Log_Writer_Filter>日志自动记录过滤器</Diary_Log_Writer_Filter>
+  <Diary>Journal</Diary>
+  <Diary_Images>Images</Diary_Images>
+  <Diary_Connected_To_Progress_Renderer>检测到 Progress Renderer，已联动。</Diary_Connected_To_Progress_Renderer>
+  <Diary_Not_Connected_To_Progress_Renderer>未检测到 Progress Renderer。如果你启用了 Progress Renderer，需将它置于 Diary 之前。</Diary_Not_Connected_To_Progress_Renderer>
+</LanguageData>

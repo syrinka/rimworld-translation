@@ -2,6 +2,7 @@ Place this at the top of your MODs list.
 
 ## Translated MODs
 
+- [Diary](https://steamcommunity.com/sharedfiles/filedetails/?id=2888141826)
 - [Choice Of Psycasts](https://steamcommunity.com/sharedfiles/filedetails/?id=2293460251)
 - [Mechanitor Command Relays](https://steamcommunity.com/sharedfiles/filedetails/?id=2885836922)
 - [Mechanitor Command Range Extenders](https://steamcommunity.com/sharedfiles/filedetails/?id=2884038189)
