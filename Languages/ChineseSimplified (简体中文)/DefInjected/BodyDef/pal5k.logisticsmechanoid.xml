@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf.8" ?>
+<LanguageData>
+	<Mech_Logistic.label>物流用重型机械体</Mech_Logistic.label>
+	<Mech_Logistic.corePart.parts.0.customLabel>头部载荷</Mech_Logistic.corePart.parts.0.customLabel>
+	<Mech_Logistic.corePart.parts.0.parts.0.parts.1.customLabel>左视觉传感器</Mech_Logistic.corePart.parts.0.parts.0.parts.1.customLabel>
+	<Mech_Logistic.corePart.parts.0.parts.0.parts.2.customLabel>右视觉传感器</Mech_Logistic.corePart.parts.0.parts.0.parts.2.customLabel>
+	<Mech_Logistic.corePart.parts.0.parts.0.parts.3.customLabel>左听觉传感器</Mech_Logistic.corePart.parts.0.parts.0.parts.3.customLabel>
+	<Mech_Logistic.corePart.parts.0.parts.0.parts.4.customLabel>左听觉传感器</Mech_Logistic.corePart.parts.0.parts.0.parts.4.customLabel>
+	<Mech_Logistic.corePart.parts.0.parts.0.parts.5.customLabel>嗅觉传感器</Mech_Logistic.corePart.parts.0.parts.0.parts.5.customLabel>
+	<Mech_Logistic.corePart.parts.1.customLabel>左臂载荷</Mech_Logistic.corePart.parts.1.customLabel>
+	<Mech_Logistic.corePart.parts.1.parts.0.customLabel>左装卸臂</Mech_Logistic.corePart.parts.1.parts.0.customLabel>
+	<Mech_Logistic.corePart.parts.1.parts.0.parts.0.customLabel>左液压钳</Mech_Logistic.corePart.parts.1.parts.0.parts.0.customLabel>
+	<Mech_Logistic.corePart.parts.2.customLabel>右臂载荷</Mech_Logistic.corePart.parts.2.customLabel>
+	<Mech_Logistic.corePart.parts.2.parts.0.customLabel>右装卸臂</Mech_Logistic.corePart.parts.2.parts.0.customLabel>
+	<Mech_Logistic.corePart.parts.2.parts.0.parts.0.customLabel>右液压钳</Mech_Logistic.corePart.parts.2.parts.0.parts.0.customLabel>
+	<Mech_Logistic.corePart.parts.3.customLabel>左腿载荷</Mech_Logistic.corePart.parts.3.customLabel>
+	<Mech_Logistic.corePart.parts.3.parts.0.customLabel>左行进足</Mech_Logistic.corePart.parts.3.parts.0.customLabel>
+	<Mech_Logistic.corePart.parts.4.customLabel>右腿载荷</Mech_Logistic.corePart.parts.4.customLabel>
+	<Mech_Logistic.corePart.parts.4.parts.0.customLabel>右行进足</Mech_Logistic.corePart.parts.4.parts.0.customLabel>
+</LanguageData>

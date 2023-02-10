@@ -4,6 +4,10 @@
     <MeleeWeapon_HydraulicClaw.description>一组安装在关节臂上的液压装卸钳，原被设计于装卸物资，但也可用于压碎敌人。</MeleeWeapon_HydraulicClaw.description>
 
     <Mech_Logistic.label>物流运机</Mech_Logistic.label>
-    <Mech_Logistic.description>一种专门设计的重型特化搬运机，负重极高且十分灵活。\n\n安装有数对液压装卸钳，必要时可作为武器使用。内置有主动烟雾发生器，可通过通风口释放机械烟雾。</Mech_Logistic.description>
+    <Mech_Logistic.description>一种专门设计的重型特化搬运机，负重极高且十分灵活。
+
+物流运机可用于长途运输那些过于珍贵或笨重以至于无法使用空投仓的物资，或作为搬运建材的优秀后勤。它的设计灵感来自于白蚁，以六根外骨骼腿支撑自己庞大的身躯；外壳遮罩着一个大容量的存储隔间，且随时可以滑开方便取用其中的内容物；头部安装有增强型侦察传感器，以预先察觉路径上的危险，保证运输物资的安全。
+
+相较于一般民用机械体，物流运机的装甲层更厚，且安装有数对液压装卸钳，必要时可作为武器使用；同时内置有主动烟雾发生器，可通过通风口释放机械烟雾。但无论如何，它非战斗特化型机械体，请尽量避免战斗。</Mech_Logistic.description>
     <Mech_Logistic.tools.0.label>前置装甲</Mech_Logistic.tools.0.label>
 </LanguageData>
