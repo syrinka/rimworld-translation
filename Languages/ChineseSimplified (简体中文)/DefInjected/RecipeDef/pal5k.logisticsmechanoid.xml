@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<Mech_Logistic.label>物流运机</Mech_Logistic.label>
+	<Logistic.label>培育物流运机</Logistic.label>
+	<Logistic.description>培育物流运机</Logistic.description>
 </LanguageData>
